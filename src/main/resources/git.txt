@@ -1,0 +1,8 @@
+git init //tao git
+git status // cac file da thay doi
+git add .  //dđâyỷ lên git các file
+git commit -m "" // đặt tên cho git muốn đẩy lên
+git remote add origin [url] // chỉ đến địa ch muốn đây lên git
+git branch -M main //  tạo nhánh main
+git push -u origin main
+
