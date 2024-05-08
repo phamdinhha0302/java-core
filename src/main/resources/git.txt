@@ -4,5 +4,5 @@ git add .  //dđâyỷ lên git các file
 git commit -m "" // đặt tên cho git muốn đẩy lên
 git remote add origin [url] // chỉ đến địa ch muốn đây lên git
 git branch -M main //  tạo nhánh main
-git push -u origin main
-
+git push -u origin main // đẩy code lên git ở nhánh nào
+git branch // kiểm tra xem bạn đang ở nhánh nào
