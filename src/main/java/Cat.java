@@ -1,4 +1,4 @@
-public  class Cat extends Animal implements java.lang.Runnable {
+public  class Cat extends Animal implements Runnable {
 
     @Override
     public void makeSound() {
